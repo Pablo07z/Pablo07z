@@ -3,7 +3,7 @@
 
 **`Estudante/Dev`**
 
-#### 👋 Olá, meu nome é Pablo Ítalo, tenho 19 anos e moro no Município de Breves, no Pará.<br>-> Atualmente estou cursando de Análise e Desenvolvimento de Sistemas na Uniasselvi.<br>-> Gosto bastante de tecnologia e trabalho na área de manutenção de hardware e sisteemas de video games. <br> -> Estou aprendendo Python para desenvolvimento back-end.<br>-> Futuramente pretendo me especializar em desenvolvimento web.
+#### 👋 Olá, meu nome é Pablo Ítalo, tenho 19 anos e moro no Município de Breves, no Pará.<br>-> Atualmente estou cursando de Análise e Desenvolvimento de Sistemas na Uniasselvi.<br>-> Gosto bastante de tecnologia e trabalho na área de manutenção de hardware e sistemas de video games. <br> -> Estou aprendendo Python para desenvolvimento back-end.<br>-> Futuramente pretendo me especializar em desenvolvimento web.
 
 
 <img data-importer="image" align="right" height="150" src="https://media.tenor.com/xX4PpM086w4AAAAm/star.webp"  />
